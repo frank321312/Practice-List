@@ -32,3 +32,5 @@ Turno turno_6 = new Turno(persona_6, mascota_6);
 Turno turno_7 = new Turno(persona_7, mascota_7);
 
 clinica.Turnos.Add(turno_1);
+
+// Verificar cambio
