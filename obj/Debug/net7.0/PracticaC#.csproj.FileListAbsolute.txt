@@ -1,0 +1,15 @@
+/home/et12alumno/Descargas/PracticaC#/bin/Debug/net7.0/PracticaC#
+/home/et12alumno/Descargas/PracticaC#/bin/Debug/net7.0/PracticaC#.deps.json
+/home/et12alumno/Descargas/PracticaC#/bin/Debug/net7.0/PracticaC#.runtimeconfig.json
+/home/et12alumno/Descargas/PracticaC#/bin/Debug/net7.0/PracticaC#.dll
+/home/et12alumno/Descargas/PracticaC#/bin/Debug/net7.0/PracticaC#.pdb
+/home/et12alumno/Descargas/PracticaC#/obj/Debug/net7.0/PracticaC#.csproj.AssemblyReference.cache
+/home/et12alumno/Descargas/PracticaC#/obj/Debug/net7.0/PracticaC#.GeneratedMSBuildEditorConfig.editorconfig
+/home/et12alumno/Descargas/PracticaC#/obj/Debug/net7.0/PracticaC#.AssemblyInfoInputs.cache
+/home/et12alumno/Descargas/PracticaC#/obj/Debug/net7.0/PracticaC#.AssemblyInfo.cs
+/home/et12alumno/Descargas/PracticaC#/obj/Debug/net7.0/PracticaC#.csproj.CoreCompileInputs.cache
+/home/et12alumno/Descargas/PracticaC#/obj/Debug/net7.0/PracticaC#.dll
+/home/et12alumno/Descargas/PracticaC#/obj/Debug/net7.0/refint/PracticaC#.dll
+/home/et12alumno/Descargas/PracticaC#/obj/Debug/net7.0/PracticaC#.pdb
+/home/et12alumno/Descargas/PracticaC#/obj/Debug/net7.0/PracticaC#.genruntimeconfig.cache
+/home/et12alumno/Descargas/PracticaC#/obj/Debug/net7.0/ref/PracticaC#.dll
